@@ -4,9 +4,11 @@
 
 ## FUNDING.yml
 
-`FUNDING.yml` 为用户级默认收款配置，账号下所有**未自带** `FUNDING.yml` 的仓库都会继承它，收款链接：
+`.github/FUNDING.yml` 为用户级默认收款配置，账号下所有**未自带** `FUNDING.yml` 的仓库都会继承它，收款链接：
 
 - 爱发电：https://afdian.com/a/wmy2981
+
+路径按官方文档要求放在 `.github` 文件夹内；文档同时给出的优先级为 `.github` 文件夹 → 仓库根目录 → `docs` 文件夹，实测根目录与 `.github` 文件夹两种位置都能被识别。
 
 ## 重要：Sponsor 按钮需要两层配置
 
