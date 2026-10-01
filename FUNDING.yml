@@ -1,0 +1,4 @@
+# 该文件为用户级默认配置（仓库 wmy2981/.github），
+# 会自动对 wmy2981 下所有未自带 FUNDING.yml 的仓库生效，显示 Sponsor 按钮。
+# 文档: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+custom: ["https://afdian.com/a/wmy2981"]
